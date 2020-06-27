@@ -2,7 +2,8 @@
 
 This repository consistes of some of my projects in PHP. These are some really simple projects yet very useful when creating some web solution. 
 
-To run these projects locally on your system - 
+To run these projects locally on your system -
+
     1. Install XAMPP server on your system(available for all operating system)
         - WAMPP for windows specific
         - LAMPP for linux specific
